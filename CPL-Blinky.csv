@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.01uF,CP_Radial_D5.0mm_P2.00mm,170.8,-84.85,-90.0,top
+C2,1uF,C_Disc_D7.5mm_W2.5mm_P5.00mm,150.45,-90.0,90.0,top
+D1,LED,LED_D3.0mm,179.5,-66.38,90.0,top
+D10,LED,LED_D3.0mm,182.7,-80.48,-90.0,top
+D2,LED,LED_D3.0mm,154.1,-53.85,0.0,top
+D3,LED,LED_D3.0mm,141.2,-64.85,-90.0,top
+D4,LED,LED_D3.0mm,138.9,-81.3,0.0,top
+D5,LED,LED_D3.0mm,144.53,-97.3,0.0,top
+D6,LED,LED_D3.0mm,157.85,-112.05,0.0,top
+D7,LED,LED_D3.0mm,178.73,-118.7,0.0,top
+D8,LED,LED_D3.0mm,192.65,-112.53,90.0,top
+D9,LED,LED_D3.0mm,187.8,-96.38,90.0,top
+J1,Conn_01x02_Socket,PinHeader_1x02_P2.54mm_Vertical,150.6,-97.82,180.0,top
+J2,Conn_01x01_Socket,PinHeader_1x01_P2.54mm_Vertical,162.45,-104.0,0.0,top
+R1,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,171.15,-102.0,0.0,top
+R2,470,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,170.3,-76.04,-90.0,top
+RV1,50k,Potentiometer_Vishay_T93YA_Vertical,171.3,-94.06,-90.0,top
+U1,NE555P,DIP-8_W7.62mm,158.71,-94.9,0.0,top
+U2,4017,N16,158.11,-77.68,0.0,top
